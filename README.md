@@ -1,4 +1,4 @@
-# 💫 Sobre Mim:
+# 💫 About Me:
 Sou um desenvolvedor full stack apaixonado por criar soluções eficazes e inovadoras. Tenho experiência em diversas tecnologias, incluindo Python, Django, HTML, CSS, JavaScript e PostgreSQL. Durante minha carreira, desenvolvi projetos significativos como um sistema de controle de estoque para uma pizzaria, uma plataforma de gerenciamento para uma concessionária e atualmente estou trabalhando em um site para um corretor de imóveis.
 
 Estou no terceiro ano do curso de Ciência da Computação, onde estou aprimorando meus conhecimentos em algoritmos, estruturas de dados e outras áreas da computação. Além disso, concluí diversos cursos extracurriculares que vão desde fundamentos de programação até técnicas avançadas.
