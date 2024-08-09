@@ -1,10 +1,10 @@
 # 💫 About Me:
-Sou um desenvolvedor full stack apaixonado por criar soluções eficazes e inovadoras. Tenho experiência em diversas tecnologias, incluindo Python, Django, HTML, CSS, JavaScript e PostgreSQL. Durante minha carreira, desenvolvi projetos significativos como um sistema de controle de estoque para uma pizzaria, uma plataforma de gerenciamento para uma concessionária e atualmente estou trabalhando em um site para um corretor de imóveis.
 
-Estou no terceiro ano do curso de Ciência da Computação, onde estou aprimorando meus conhecimentos em algoritmos, estruturas de dados e outras áreas da computação. Além disso, concluí diversos cursos extracurriculares que vão desde fundamentos de programação até técnicas avançadas.
+Hello, my name is Caio, I am 21 years old. I am a full stack developer passionate about creating effective and innovative solutions. I have experience with various technologies, including Python, Django, HTML, CSS, JavaScript, and PostgreSQL. Throughout my career, I have worked on significant projects such as an inventory management system for a pizzeria, a management platform for a dealership, and I am currently developing a website for a real estate agent.
 
-Meu objetivo é me tornar um programador cada vez melhor, sempre buscando aprender novas tecnologias e melhorar minhas habilidades para desenvolver soluções cada vez mais eficientes e inovadoras.
+I am in my third year of a Computer Science degree, where I am enhancing my knowledge in algorithms, data structures, and other areas of computing. Additionally, I have completed several extracurricular courses ranging from programming fundamentals to advanced techniques.
 
+My goal is to continually improve as a programmer, always seeking to learn new technologies and refine my skills to develop increasingly efficient and innovative solutions.
 
 
 
