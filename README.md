@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-Hello, my name is Caio, I am 21 years old. I am a full stack developer passionate about creating effective and innovative solutions. I have experience with various technologies, including Python, Django, HTML, CSS, JavaScript, and PostgreSQL. Throughout my career, I have worked on significant projects such as an inventory management system for a pizzeria, a management platform for a dealership, and I am currently developing a website for a real estate agent.
+Hello, my name is Caio, I am 21 years old. I am a full stack developer passionate about creating effective and innovative solutions. I have experience with various technologies, including Python, Django, HTML, CSS, JavaScript, and PostgreSQL. 
 
 I am in my third year of a Computer Science degree, where I am enhancing my knowledge in algorithms, data structures, and other areas of computing. Additionally, I have completed several extracurricular courses ranging from programming fundamentals to advanced techniques.
 
