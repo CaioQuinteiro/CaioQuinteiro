@@ -6,11 +6,6 @@ I am currently in my third year of a Computer Science degree at Unimar, where I 
 
 My goal is to continually improve as an engineer, combining technical excellence with a business-oriented mindset to develop impactful software.
 
-### 🚀 What I'm up to:
-- 🔭 **Currently working on:** A Real Estate Management System, an educational platform named EduConnect, and a workout tracking web app.
-- 🌱 **Currently expanding my skills in:** Advanced GCP Architecture (Cloud Run Jobs/Services), AI integration, and gamification mechanics.
-- 💼 **Entrepreneurship:** Co-founder of **CGE Triade Educacional**, an educational infoproducts company.
-- ⚡ **Fun fact:** When I'm not coding, I'm likely practicing archery or developing the lore for my own epic fantasy universe!
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/channels/@caioquinteiro.) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/caioquinteiiro) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-quinteiro-24098a230/) 
@@ -18,7 +13,7 @@ My goal is to continually improve as an engineer, combining technical excellence
 # 💻 Tech Stack:
 
 ### Languages & Frameworks
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 
 ### Cloud & Infrastructure
 ![GCP](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Cloud Run](https://img.shields.io/badge/Cloud_Run-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white) 
